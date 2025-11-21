@@ -99,16 +99,16 @@ This project demonstrates:
 
 ## 👨‍💻 Author
 
-**[Your Name]**
+**Hariprasad J Kadu**
 - 🎓 Electronics & Computer Engineering Graduate (2025)
 - 💼 Aspiring Data Analyst
 - 🐍 Python Enthusiast
 
 ## 🔗 Contact
 
-- **LinkedIn**: [Your LinkedIn Profile]
-- **GitHub**: [Your GitHub Profile]
-- **Email**: your.email@example.com
+- **LinkedIn**: [Hariprasad Kadu](https://www.linkedin.com/in/hariprasad-kadu-855382314/)
+- **GitHub**: [Hari27105](https://github.com/Hari27105)
+- **Email**: kaduhariprasad@gmail.com
 
 ## 📝 License
 
@@ -116,4 +116,3 @@ This project is open source and available for educational purposes.
 
 ## 🙏 Acknowledgments
 
-Created as a portfolio project to demonstrate data analysis skills for fresher job applications.
